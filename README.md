@@ -14,23 +14,25 @@ I’ll be adding more in the upcoming weeks/months, but feel free to download th
 
 ### Icons
 
-![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview_1130b.png)
+![Preview](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mm_preview_1407.png)
 
-1Password, Adobe Illustrator, Adobe Photoshop, Byword, Espresso, Final Cut Pro X, Framer Studio, GitHub, iA Writer, Mail, Messages, Rdio, Safari, Sketch, Slack, System Preferences, Xcode, Twitter (Weet Edition) and Notes.
+1Password, Adobe Illustrator, Adobe Photoshop, Affinity Photo, Byword, Espresso, Final Cut Pro X, Framer Studio, GitHub, iA Writer, Mail, Messages, Rdio, Safari, Sketch, Slack, System Preferences, Xcode, Twitter (Weet Edition), Notes and Calendar.
+
+_PS. [Here’s](https://twitter.com/tbnv/status/540172143322222593) how to replace the Calendar icon. **Be careful and make sure you keep a backup**._
 
 ---
 
 ### More from Contributors
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/anonymoussi_preview_1127.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/anonymoussi_preview_1201.png)
 
-Finder, Firefox and Tweetbot by [@anonymous_si](http://twitter.com/anonymous_si)
+Finder, Firefox, Messages, Netbeans, Pixelmatr, Reminders, Skype, Spotify, Tweetbot, TweetDeck and Twitter by [@anonymous_si](http://twitter.com/anonymous_si)
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamindauton_preview_1127.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/benjamindauton_preview_1201.png)
 
-Chrome, CodeKit, iMovie, iPhoto, Numbers, Pages, SimpleNote, Sublime Text, Terminal, VLC, Boot2Docker and TweetDeck by [@bdauton](http://twitter.com/bdauton)
+Chrome, iMovie, iPhoto, Numbers, Keynote, Pages, SimpleNote, Sublime Text, Terminal, VLC, Boot2Docker, TweetDeck, Adobe Illustrator, Adobe Photoshop, Adobe Lightroom, CodeKit and LibreOffice by [@bdauton](http://twitter.com/bdauton)
 
 ---
 
@@ -46,9 +48,9 @@ Instapaper (ReadKit), Writer Pro and iA Writer by [@iMAMDev](http://twitter.com/
 
 ---
 
-![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1130b.png)
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/mattfletcher_preview_1214.png)
 
-Day One, Evernote, iA Writer, Maps, Pocket, Reeder, Deliveries, Notefile, Mailbox, Microsoft Excel, Microsoft Lync, Microsoft One Note, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word, Spotify and OmniFocus by [@matt_fletcher](http://twitter.com/matt_fletcher)
+Day One, Evernote, iA Writer, Maps, Pocket, Reeder, Deliveries, Notefile, Mailbox, Microsoft Excel, Microsoft Lync, Microsoft One Note, Microsoft Outlook, Microsoft PowerPoint, Microsoft Word, Spotify, OmniFocus, FaceTime, Game Center, Keynote, Numbers, Pages, MindNote, Transmit, Contacts, Plex, Reminders, Screenhero and Things by [@matt_fletcher](http://twitter.com/matt_fletcher)
 
 ---
 
@@ -64,12 +66,54 @@ Clear, Eclipse, Photoshop and SourceTree by [@ryanb93](http://twitter.com/ryanb9
 
 ---
 
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/thiagosanchz_preview.png)
+
+Skype by [@sanchez_thiago](https://twitter.com/sanchez_thiago)
+
+---
+
 ![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/thiagovieira_preview_1127.png)
 
 Illustrator, Photoshop, Fireworks, Calculator, Contacts, Dropbox, Google Drive, Keynote, Nike+, Reminders, SourceTree, TestFlight and Activity Monitor by [@thiagovieiracom](https://twitter.com/thiagovieiracom)
 
 ---
 
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/jesseread_preview_1209.png)
+
+Beats Music by [@DarthNerdus](https://twitter.com/DarthNerdus)
+
+---
+
+![](https://raw.githubusercontent.com/mmarfil/yoios/master/Previews/seanoldham_preview.png)
+
+Atom, Downcast, Git, Kindle and Minecraft by [Sean Oldham](http://seanosaur.com)
+
+---
+![](https://raw.githubusercontent.com/habovh/yoios/master/Previews/jordanbecker_preview_0401.png)
+
+Calendar, Calendar (empty), Coda, PHPStorm & Ulysses by [Jordan Becker](http://www.jordanbecker.fr/).
+
+For Calendar icon, replace `App.icns` and `App-empty.icns` in `Calenar.app/Contents/Resources/` and `App-empty.icns` again in `Calenar.app/Contents/Resources/Calendar.docktileplugin/Contents/Resources/`.
+
+---
+
+Final Cut Pro, Mail, Messages, Safari Green, Safari, SourceTree, Spotify, Sublime Text, Terminal, Todoist, Xcode and iStudiez by [Camille Considine](https://github.com/cconsidine)
+
+---
+
+BattleNet, Chrome Launcher, Clean Archiver, GarageBand, GoogleKeep, Mail, Parallels Desktop, SourceTree, VLC and iTerm by [@hiking93](https://github.com/hiking93)
+
+---
+
+iOS Simulator by [@stefanceriu](https://github.com/stefanceriu)
+
+---
+
+![](no preview yet!)
+
+Terminal (ZSH) by [Daniel Schäfer](https://twitter.com/DevDaniel7)
+
+---
 ### Notes
 
 1. I use [LiteIcon](http://www.freemacsoft.net/liteicon/) to safely replace icons.
